@@ -1,0 +1,80 @@
+[
+    {
+        "FoodImage": "https://assets.bonappetit.com/photos/610d630e2f1b400ec4217042/1:1/w_2560%2Cc_limit/0921-curry-vegetables.jpg",
+        "FoodName": "Vegetable Curry",
+        "Donator": {
+            "Image": "https://randomuser.me/api/portraits/men/86.jpg",
+            "Name": "John Doe",
+            "Email": "johndoe@example.com"
+        },
+        "FoodQuantity": 10,
+        "PickupLocation": "1234 Elm Street, Cityville",
+        "ExpiredDateTime": "2024-06-10",
+        "AdditionalNotes": "Please bring your own containers."
+    },
+    {
+        "FoodImage": "https://www.eatwell101.com/wp-content/uploads/2019/04/Blackened-Chicken-and-Avocado-Salad-recipe-1.jpg",
+        "FoodName": "Chicken Salad",
+        "Donator": {
+            "Image": "https://randomuser.me/api/portraits/men/49.jpg",
+            "Name": "Jane Smith",
+            "Email": "janesmith@example.com"
+        },
+        "FoodQuantity": 5,
+        "PickupLocation": "5678 Oak Street, Townsville",
+        "ExpiredDateTime": "2024-06-11",
+        "AdditionalNotes": "Contains nuts."
+    },
+    {
+        "FoodImage": "https://www.countdown.co.nz/Content/Recipes/230232-Classic-SpagBol_810x520.jpg",
+        "FoodName": "Spaghetti Bolognese",
+        "Donator": {
+            "Image": "https://randomuser.me/api/portraits/men/31.jpg",
+            "Name": "Robert Brown",
+            "Email": "robertbrown@example.com"
+        },
+        "FoodQuantity": 8,
+        "PickupLocation": "910 Maple Avenue, Villagetown",
+        "ExpiredDateTime": "2024-06-12",
+        "AdditionalNotes": "Gluten-free option available."
+    },
+    {
+        "FoodImage": "https://healthyfitnessmeals.com/wp-content/uploads/2022/05/Fruit-salad-recipe-3.jpg",
+        "FoodName": "Fruit Salad",
+        "Donator": {
+            "Image": "https://randomuser.me/api/portraits/men/46.jpg",
+            "Name": "Emily Johnson",
+            "Email": "emilyjohnson@example.com"
+        },
+        "FoodQuantity": 15,
+        "PickupLocation": "1111 Pine Street, Cityville",
+        "ExpiredDateTime": "2024-06-13",
+        "AdditionalNotes": "Fresh and organic."
+    },
+    {
+        "FoodImage": "https://www.eatingwell.com/thmb/hCltJElzU6lxLiKBezMsvH7CV_A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3758707-339329f96b6044a7bbec888e4aa0fe93.jpg",
+        "FoodName": "Grilled Chicken",
+        "Donator": {
+            "Image": "https://randomuser.me/api/portraits/men/28.jpg",
+            "Name": "Michael White",
+            "Email": "michaelwhite@example.com"
+        },
+        "FoodQuantity": 12,
+        "PickupLocation": "2222 Cedar Lane, Townsville",
+        "ExpiredDateTime": "2024-06-14",
+        "AdditionalNotes": "Marinated in herbs."
+    },
+    {
+        "FoodImage": "https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg",
+        "FoodName": "Vegetarian Pizza",
+        "Donator": {
+            "Image": "https://randomuser.me/api/portraits/men/7.jpg",
+            "Name": "Sarah Green",
+            "Email": "sarahgreen@example.com"
+        },
+        "FoodQuantity": 20,
+        "PickupLocation": "3333 Birch Road, Villagetown",
+        "ExpiredDateTime": "2024-06-15",
+        "AdditionalNotes": "Contains dairy and gluten."
+    }
+]
